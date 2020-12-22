@@ -43,5 +43,9 @@ public class CsvReader : IContentProvider
         return null;
     }
 
+    public List<List<string>> GetData()
+    {
+        return dataTable;
+    }
 
 }

@@ -4,5 +4,7 @@ using UnityEngine;
 
 public interface IContentProvider
 {
-    public List<string> GetRow(string key);
+    List<string> GetRow(string key);
+
+    List<List<string>> GetData();
 }
