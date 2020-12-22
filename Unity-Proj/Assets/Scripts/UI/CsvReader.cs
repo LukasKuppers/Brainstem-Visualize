@@ -13,7 +13,7 @@ public class CsvReader : IContentProvider
         textData = Resources.Load<TextAsset>(path);
         dataTable = new List<List<string>>();
 
-        string[] rows = textData.text.Split(new char[] { 'n' });
+        string[] rows = textData.text.Split(new char[] { '\n' });
         for (int i = 1; i < rows.Length - 1; i++)
         {
             string[] row = rows[i].Split(new char[] { ',' });
