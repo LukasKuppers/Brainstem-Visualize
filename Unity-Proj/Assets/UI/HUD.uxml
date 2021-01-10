@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="div" style="align-items: flex-end;">
+        <ui:Button text="Show Slices" display-tooltip-when-elided="true" name="ToggleSlices_button" style="color: rgba(196, 196, 196, 255); border-left-color: rgba(48, 48, 48, 255); border-right-color: rgba(48, 48, 48, 255); border-top-color: rgba(48, 48, 48, 255); margin-left: 5px; margin-right: 5px; margin-top: 5px; margin-bottom: 5px; -unity-background-image-tint-color: rgba(32, 32, 32, 255); font-size: 30px; background-color: rgba(76, 76, 76, 255); border-bottom-color: rgba(32, 32, 32, 255);" />
+    </ui:VisualElement>
+</ui:UXML>

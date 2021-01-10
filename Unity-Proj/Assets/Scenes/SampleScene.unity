@@ -151,10 +151,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 458250613}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7ceb9944ff0905a42b675bc692ae2abe, type: 3}
+  m_Script: {fileID: 11500000, guid: 295028163d8e71d4b83599a61a60b575, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textKey: text
+  slices:
+  - {fileID: 630897034}
+  buttonName: ToggleSlices_button
+  isHidden: 0
 --- !u!114 &458250615
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -187,7 +190,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PanelSettings: {fileID: 11400000, guid: 12991215bf1c94342a6a712e1f20794d, type: 2}
   m_ParentUI: {fileID: 0}
-  sourceAsset: {fileID: 9197481963319205126, guid: 0c745e3b985b0974491a6cc3943b357e, type: 3}
+  sourceAsset: {fileID: 9197481963319205126, guid: f299fba5d6b37fd4ea316653d936fe23, type: 3}
   m_SortingOrder: 0
 --- !u!4 &458250617
 Transform:
