@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class CameraMovementController : MonoBehaviour
 {
+    [SerializeField]
+    private float sensitivity = 0.5f;
+
     private MouseInput mouseInput;
 
     private GameObject cameraRoot;
@@ -30,8 +33,8 @@ public class CameraMovementController : MonoBehaviour
         float dHorizontal = mouseInput.GetHorizontalDrag();
         float dVertial = mouseInput.GetVerticalDrag();
 
-        state.y += dHorizontal;
-        state.x -= dVertial;
+        state.y += dHorizontal * sensitivity;
+        state.x -= dVertial * sensitivity;
 
         state.x = Mathf.Clamp(state.x, -90, 90);
 
