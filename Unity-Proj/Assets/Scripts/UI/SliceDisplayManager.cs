@@ -23,6 +23,11 @@ public class SliceDisplayManager : MonoBehaviour
 
         toggleBtn = root.Q<Button>(name: buttonName);
 
+        Button newbtn = new Button();
+        newbtn.text = "this is a procedurally produced button";
+        newbtn.transform.position = new Vector3(50, 50, 50);
+        root.Add(newbtn);
+
         SetState(isHidden);
         RegisterToggleButton();
     }
