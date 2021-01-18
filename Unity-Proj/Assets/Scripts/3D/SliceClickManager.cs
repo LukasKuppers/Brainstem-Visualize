@@ -37,7 +37,14 @@ public class SliceClickManager : MonoBehaviour
         newWindow.name = WINDOW_NAME;
         newWindow.transform.SetParent(canvas.transform);
 
+        newWindow.transform.localPosition = Vector3.zero;
+        newWindow.transform.localScale = Vector3.one;
+        RectTransform rt = newWindow.GetComponent<RectTransform>();
+        rt.offsetMin = Vector2.zero;
+        rt.offsetMax = Vector2.zero;
+
         // window setup
-        newWindow.transform.GetChild(0).GetComponent<Image>().sprite = image;
+        //newWindow.transform.GetChild(0).GetComponent<Image>().sprite = image;
+        //newWindow.GetComponent<RectTransform>().anchoredPosition = Vector2.zero;
     }
 }
