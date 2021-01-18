@@ -43,8 +43,6 @@ public class SliceClickManager : MonoBehaviour
         rt.offsetMin = Vector2.zero;
         rt.offsetMax = Vector2.zero;
 
-        // window setup
-        //newWindow.transform.GetChild(0).GetComponent<Image>().sprite = image;
-        //newWindow.GetComponent<RectTransform>().anchoredPosition = Vector2.zero;
+        
     }
 }
