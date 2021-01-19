@@ -13,6 +13,8 @@ public class SliceClickManager : MonoBehaviour
     private GameObject canvas;
 
     [SerializeField]
+    private string title;
+    [SerializeField]
     private Sprite image;
 
     private void OnMouseOver()
@@ -37,12 +39,6 @@ public class SliceClickManager : MonoBehaviour
         newWindow.name = WINDOW_NAME;
         newWindow.transform.SetParent(canvas.transform);
 
-        newWindow.transform.localPosition = Vector3.zero;
-        newWindow.transform.localScale = Vector3.one;
-        RectTransform rt = newWindow.GetComponent<RectTransform>();
-        rt.offsetMin = Vector2.zero;
-        rt.offsetMax = Vector2.zero;
-
-        
+        newWindow.GetComponent<DiagramWindowCreator>().SetupWindow(title, image);
     }
 }
