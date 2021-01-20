@@ -8,6 +8,9 @@ public class SliceClickManager : MonoBehaviour
     private static readonly string WINDOW_NAME = "Primary Diagram Window";
 
     [SerializeField]
+    private GameObject hideSlicesBtn;
+
+    [SerializeField]
     private GameObject windowPrefab;
     [SerializeField]
     private GameObject canvas;
@@ -16,6 +19,8 @@ public class SliceClickManager : MonoBehaviour
     private string title;
     [SerializeField]
     private Sprite image;
+    [SerializeField]
+    private List<StructureButton> structures;
 
     private void OnMouseOver()
     {
@@ -27,6 +32,9 @@ public class SliceClickManager : MonoBehaviour
 
     private void OnClick()
     {
+        // hide slices
+        hideSlicesBtn.GetComponent<SliceVisibilityManager>().OnClick();
+
         // destroy old window
         GameObject oldWindow = GameObject.Find(WINDOW_NAME);
         if (oldWindow != null)
@@ -39,6 +47,6 @@ public class SliceClickManager : MonoBehaviour
         newWindow.name = WINDOW_NAME;
         newWindow.transform.SetParent(canvas.transform);
 
-        newWindow.GetComponent<DiagramWindowCreator>().SetupWindow(title, image);
+        newWindow.GetComponent<DiagramWindowCreator>().SetupWindow(title, image, structures);
     }
 }

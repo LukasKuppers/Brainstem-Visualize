@@ -7,11 +7,16 @@ using TMPro;
 public class DiagramWindowCreator : MonoBehaviour
 {
     [SerializeField]
-    private GameObject TitleObject;
+    private GameObject titleObject;
     [SerializeField]
-    private GameObject ImageObject;
+    private GameObject imageObject;
+    [SerializeField]
+    private GameObject textObject;
+
+    [SerializeField]
+    private GameObject diagramButtonPrefab;
     
-    public void SetupWindow(string title, Sprite diagramImage)
+    public void SetupWindow(string title, Sprite diagramImage, List<StructureButton> structures)
     {
         // window position setup
         gameObject.transform.localPosition = Vector3.zero;
@@ -20,7 +25,22 @@ public class DiagramWindowCreator : MonoBehaviour
         rt.offsetMin = Vector2.zero;
         rt.offsetMax = Vector2.zero;
 
-        TitleObject.GetComponent<TextMeshProUGUI>().text = title;
-        ImageObject.GetComponent<Image>().sprite = diagramImage;
+        titleObject.GetComponent<TextMeshProUGUI>().text = title;
+        imageObject.GetComponent<Image>().sprite = diagramImage;
+
+        // create structure buttons
+        CreateDiagramButtons(structures);
+    }
+
+    private void CreateDiagramButtons(List<StructureButton> structures)
+    {
+        foreach(StructureButton structure in structures)
+        {
+            GameObject newBtn = Instantiate(diagramButtonPrefab);
+            newBtn.name = "DiagramButton_" + structure.title;
+            newBtn.transform.SetParent(imageObject.transform);
+
+            newBtn.GetComponent<DiagramButton>().SetupButton(structure, textObject);
+        }
     }
 }

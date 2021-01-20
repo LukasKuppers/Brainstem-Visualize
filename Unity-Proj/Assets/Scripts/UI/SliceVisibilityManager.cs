@@ -26,7 +26,7 @@ public class SliceVisibilityManager : MonoBehaviour
         SetState(isHidden);
     }
 
-    private void OnClick()
+    public void OnClick()
     {
         isHidden = !isHidden;
         SetState(isHidden);

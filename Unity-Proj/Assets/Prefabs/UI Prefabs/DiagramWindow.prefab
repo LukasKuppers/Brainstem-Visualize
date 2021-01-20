@@ -388,8 +388,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce3fe7669cf72de4f93f0923c764b9d9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TitleObject: {fileID: 958219404767413297}
-  ImageObject: {fileID: 8884337557195228494}
+  titleObject: {fileID: 958219404767413297}
+  imageObject: {fileID: 8884337557195228494}
+  textObject: {fileID: 3812638412781162891}
+  diagramButtonPrefab: {fileID: 1065761898459906318, guid: 7d7ebec6a9f9c7c49aa17e2c4869a708, type: 3}
 --- !u!1 &3726206693523992861
 GameObject:
   m_ObjectHideFlags: 0
