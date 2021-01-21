@@ -11,11 +11,13 @@ public class LabelButton : MonoBehaviour
     [SerializeField]
     private GameObject textObject;
 
-    private bool isHidden;
+    private string label;
+    private GameObject labelManager;
 
-    public void SetupButton(string label)
+    public void SetupButton(string label, GameObject labelManager)
     {
-        isHidden = true;
+        this.label = label;
+        this.labelManager = labelManager;
 
         // button setup
         Button button = gameObject.GetComponent<Button>();
@@ -23,18 +25,10 @@ public class LabelButton : MonoBehaviour
 
         // label setup
         textObject.GetComponent<TextMeshProUGUI>().text = label;
-
-        SetState(isHidden);
     }
 
     private void OnClick()
     {
-        isHidden = !isHidden;
-        SetState(isHidden);
-    }
-
-    private void SetState(bool isHidden)
-    {
-        labelObject.SetActive(!isHidden);
+        labelManager.GetComponent<LabelManager>().ToggleLabel(label);
     }
 }

@@ -11,12 +11,15 @@ public class Label : MonoBehaviour
     [SerializeField]
     private GameObject buttonPrefab;
     [SerializeField]
+    private GameObject showLabelButton;
+    [SerializeField]
+    private GameObject labelManager;
+    [SerializeField]
     private string label;
 
     private Camera cam;
 
     private GameObject button;
-    private GameObject text;
     private RectTransform btnRt;
 
     private void Start()
@@ -28,7 +31,11 @@ public class Label : MonoBehaviour
         button.transform.SetParent(canvas.transform);
         btnRt = button.GetComponent<RectTransform>();
 
-        button.GetComponent<LabelButton>().SetupButton(label: label);
+        button.GetComponent<LabelButton>().SetupButton(label: label, labelManager);
+
+        // hookup to label label managers
+        showLabelButton.GetComponent<LabelVisibilityManager>().AddLabel(button, gameObject);
+        labelManager.GetComponent<LabelManager>().AddLabel(label, button);
     }
 
     private void Update()

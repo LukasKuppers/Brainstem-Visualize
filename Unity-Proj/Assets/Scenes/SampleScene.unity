@@ -123,6 +123,123 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &2966915
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1623098151}
+    m_Modifications:
+    - target: {fileID: 6293950917627323932, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_text
+      value: Show Labels
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950917627323932, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_fontSize
+      value: 34.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128050, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_Name
+      value: ShowLabels_button
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_Pivot.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_Pivot.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 210
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -60
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
 --- !u!1001 &27071677
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -131,6 +248,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1274644600}
     m_Modifications:
     - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Optic Nerve
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
       propertyPath: canvas
       value: 
       objectReference: {fileID: 1623098147}
@@ -138,6 +259,18 @@ PrefabInstance:
       propertyPath: cameraObject
       value: 
       objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
       propertyPath: m_Name
       value: OpticNerve
@@ -304,6 +437,324 @@ MonoBehaviour:
   image: {fileID: 21300000, guid: 52298a94ee6acb24097b2d748f96c4ac, type: 3}
   structures:
   - {fileID: 11400000, guid: afa933d383da2df4583d913ae562bca3, type: 2}
+--- !u!1001 &61690049
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Vagus Nerve (R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: VagusNerve(R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.334
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.493
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.414
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!4 &122575468 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 758078596}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &134860649 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 144228792}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &144228792
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Trigeminal Nerve (R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: TrigeminalNerve(R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.473
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.244
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.608
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!1001 &197190353
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Glossopharyngeal Nerve (L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: GlossopharyngealNerve(L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.422
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.133
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.361
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!1001 &310684641
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Oculomotor Nerve (L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: OculomotorNerve(L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.478
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.024
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.459
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
 --- !u!1 &382334033
 GameObject:
   m_ObjectHideFlags: 0
@@ -340,6 +791,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &449437808 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 1141091806}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &456723875 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 831525352}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &460043040 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 1749320176}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &535012425
 GameObject:
   m_ObjectHideFlags: 0
@@ -477,6 +943,329 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensitivity: 0.5
+--- !u!4 &653921658 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 197190353}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &692345198 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 846059476}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &758078596
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Facial and Intermediate Nerves (L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: FandINerve(L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.298
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.614
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.514
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!4 &774665818 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 983697340}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &825045557
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Vagus Nerve (L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: VagusNerve(L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.334
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.493
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.414
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!1001 &831525352
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Hypoglossal Nerve (R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: HypoglossalNerve(R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.947
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.811
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!1001 &846059476
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Trigeminal Nerve (L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: TrigeminalNerve(L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.473
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.244
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.608
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
 --- !u!1 &853945592
 GameObject:
   m_ObjectHideFlags: 0
@@ -569,6 +1358,170 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!4 &854913298 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 1605351429}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &888097813
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Facial and Intermediate Nerves (R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: FandINerve(R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.298
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.614
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.514
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!1001 &947428064
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Accessory Nerve (R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: AccessoryNerve(R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.632
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!4 &947428065 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 947428064}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &962394383
 GameObject:
   m_ObjectHideFlags: 0
@@ -744,6 +1697,11 @@ Transform:
   m_Father: {fileID: 644889959}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &968391354 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 310684641}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &983201526
 GameObject:
   m_ObjectHideFlags: 0
@@ -810,6 +1768,160 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &983697340
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Trochlear Nerve (L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: TrochlearNerve(L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.925
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.444
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!1001 &1012631843
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Trochlear Nerve (R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: TrochlearNerve(R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.925
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.444
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
 --- !u!1 &1020219147
 GameObject:
   m_ObjectHideFlags: 0
@@ -902,10 +2014,256 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1001 &1141091806
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Abducens Nerve (R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: AbducensNerve(R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!4 &1146439338 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 888097813}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1151664402 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
   m_PrefabInstance: {fileID: 27071677}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1163202500
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Accessory Nerve (L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: AccessoryNerve(L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.17
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.632
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!4 &1163202501 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 1163202500}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1186195779
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Glossopharyngeal Nerve (R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: GlossopharyngealNerve(R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.422
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.133
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.361
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!4 &1270215471 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 1449277243}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1274644599
 GameObject:
@@ -916,6 +2274,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1274644600}
+  - component: {fileID: 1274644601}
   m_Layer: 0
   m_Name: Labels
   m_TagString: Untagged
@@ -935,9 +2294,43 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1151664402}
+  - {fileID: 968391354}
+  - {fileID: 2147167781}
+  - {fileID: 2120864419}
+  - {fileID: 774665818}
+  - {fileID: 692345198}
+  - {fileID: 134860649}
+  - {fileID: 449437808}
+  - {fileID: 1659523696}
+  - {fileID: 1163202501}
+  - {fileID: 947428065}
+  - {fileID: 456723875}
+  - {fileID: 460043040}
+  - {fileID: 1467315034}
+  - {fileID: 1725546194}
+  - {fileID: 2071445311}
+  - {fileID: 653921658}
+  - {fileID: 122575468}
+  - {fileID: 1146439338}
+  - {fileID: 854913298}
+  - {fileID: 1270215471}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1274644601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1274644599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10d6177e9fdbf0c448646b8cd87588b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enabledColor: {r: 0.10298407, g: 1, b: 0, a: 0.5294118}
+  disabledColor: {r: 1, g: 1, b: 1, a: 0.5294118}
 --- !u!1 &1289354695 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 915925108603651182, guid: 9390299ff34114f4cb4b152ed9a47540, type: 3}
@@ -981,6 +2374,88 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   slices:
   - {fileID: 27852919}
+--- !u!1001 &1449277243
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Vestibulocochlear Nerve (L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: VestibulocochlearNerve(L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.163
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.537
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!4 &1467315034 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 825045557}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1481468342
 GameObject:
   m_ObjectHideFlags: 0
@@ -1073,6 +2548,83 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1001 &1605351429
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Vestibulocochlear Nerve (R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: VestibulocochlearNerve(R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.163
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.537
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
 --- !u!1 &1623098147
 GameObject:
   m_ObjectHideFlags: 0
@@ -1164,6 +2716,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1296261235}
+  - {fileID: 1974952288}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1172,6 +2725,88 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1001 &1643669649
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Abducens Nerve (L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: AbducensNerve(L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!4 &1659523696 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 1643669649}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1672621388
 GameObject:
   m_ObjectHideFlags: 0
@@ -1264,6 +2899,198 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1001 &1712783459
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Oculomotor Nerve (R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: OculomotorNerve(R)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.478
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.024
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.459
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!4 &1725546194 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 61690049}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1749320176
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1274644600}
+    m_Modifications:
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: label
+      value: Hypoglossal Nerve (L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: canvas
+      value: 
+      objectReference: {fileID: 1623098147}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: cameraObject
+      value: 
+      objectReference: {fileID: 963194225}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: labelManager
+      value: 
+      objectReference: {fileID: 1274644599}
+    - target: {fileID: 527299398628869188, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: showLabelButton
+      value: 
+      objectReference: {fileID: 1974952287}
+    - target: {fileID: 965791462257323664, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_Name
+      value: HypoglossalNerve(L)
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.947
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.811
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.085
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+--- !u!1 &1974952287 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6293950918303128050, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+  m_PrefabInstance: {fileID: 2966915}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &1974952288 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 6293950918303128051, guid: 3a89c19622bcc0f4aacf5401d306b2de, type: 3}
+  m_PrefabInstance: {fileID: 2966915}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1974952293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1974952287}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e4fd70f6a8c4ab4eb88dc036fff48e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isHidden: 1
+--- !u!4 &2071445311 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 1186195779}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2120864419 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 1012631843}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2127873353
 GameObject:
   m_ObjectHideFlags: 0
@@ -1295,6 +3122,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &2147167781 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 965791462257323665, guid: 29a8bebf73fdb494f9ee3b7c8e4bf4e0, type: 3}
+  m_PrefabInstance: {fileID: 1712783459}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &33615201885005849
 PrefabInstance:
   m_ObjectHideFlags: 0
