@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 75894cd8a195d9249ae146c3665d15d7, type: 3}
-  m_Name: TestKidneyStructure
+  m_Name: MLF
   m_EditorClassIdentifier: 
-  xRatio: 0.75
-  yRatio: 0.5
-  title: Kidey
-  dataKey: nothing here
+  xRatio: 0.56
+  yRatio: 0.33
+  title: MLF
+  dataKey: MLF
