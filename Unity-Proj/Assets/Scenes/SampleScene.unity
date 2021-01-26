@@ -3338,7 +3338,7 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: 94f420a38513ac24ca3d657de0f98700, type: 3}
     - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
       propertyPath: title
-      value: Medulla 2
+      value: Medulla - Rostral Sensory Decussation
       objectReference: {fileID: 0}
     - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
       propertyPath: canvas
@@ -3348,6 +3348,74 @@ PrefabInstance:
       propertyPath: hideSlicesBtn
       value: 
       objectReference: {fileID: 1296261234}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.size
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: f0fcb4342f4d2d74b8a6abbb0c8861ca, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 013d3279fb9543b4c8bd509dc98562bb, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: 25c5fcc74b2f1014b9aa0e4686db8e53, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[3]
+      value: 
+      objectReference: {fileID: 11400000, guid: 3e3fc85d65280e34da903167d2982cf1, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[4]
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f2e115bbcb222d4faf531917aa1a527, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[5]
+      value: 
+      objectReference: {fileID: 11400000, guid: b96101db740c4b34683831d5dee6637c, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[6]
+      value: 
+      objectReference: {fileID: 11400000, guid: 9a3ceb92fbc18f14284d7994f9f366fe, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[7]
+      value: 
+      objectReference: {fileID: 11400000, guid: 475e5d8920ff97d4db6b2a57875528e8, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[8]
+      value: 
+      objectReference: {fileID: 11400000, guid: 4b5e57c561ae2254f80dee9bbf50d8a9, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[9]
+      value: 
+      objectReference: {fileID: 11400000, guid: 7b9976385f93e2a4c8b98aee939326ad, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[10]
+      value: 
+      objectReference: {fileID: 11400000, guid: f08e7495f7c1ca145bbc883d7dd308f4, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[11]
+      value: 
+      objectReference: {fileID: 11400000, guid: 0b6ee54112b99a242b375d8540a6620c, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[12]
+      value: 
+      objectReference: {fileID: 11400000, guid: 4dda1745747bf7f45b71738a23b01d1c, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[13]
+      value: 
+      objectReference: {fileID: 11400000, guid: c40fbfbffd0019e4dae0227a75a4a3a9, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[14]
+      value: 
+      objectReference: {fileID: 11400000, guid: 88ade655bdb48d1458fca55e0424464d, type: 2}
+    - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
+      propertyPath: structures.Array.data[15]
+      value: 
+      objectReference: {fileID: 11400000, guid: 410db94d487817c49aa5c76d8f67eefd, type: 2}
     - target: {fileID: 8150338383425673742, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -3669,7 +3737,7 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: 7e98327da2346ba4fa090ac9e0a9f353, type: 3}
     - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
       propertyPath: title
-      value: Medulla 1
+      value: Medulla - Motor Decussation
       objectReference: {fileID: 0}
     - target: {fileID: 8150338383425673737, guid: 6bd205c5a21a7e74797a5bfdf41b9716, type: 3}
       propertyPath: canvas
