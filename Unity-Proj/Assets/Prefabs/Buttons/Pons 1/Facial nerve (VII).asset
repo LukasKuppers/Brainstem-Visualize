@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75894cd8a195d9249ae146c3665d15d7, type: 3}
   m_Name: Facial nerve (VII)
   m_EditorClassIdentifier: 
-  xRatio: 0
-  yRatio: 0
-  title: 
-  dataKey: 
+  xRatio: 0.64
+  yRatio: 0.71
+  title: Facial nerve (VII)
+  dataKey: Facial nerve (VII)

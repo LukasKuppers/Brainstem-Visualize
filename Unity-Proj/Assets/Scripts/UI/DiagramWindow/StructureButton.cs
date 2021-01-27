@@ -7,6 +7,7 @@ public class StructureButton : ScriptableObject
 {
     public float xRatio;
     public float yRatio;
+    public bool mirror;
     public string title;
     public string dataKey;
 }

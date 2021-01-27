@@ -36,11 +36,28 @@ public class DiagramWindowCreator : MonoBehaviour
     {
         foreach(StructureButton structure in structures)
         {
-            GameObject newBtn = Instantiate(diagramButtonPrefab);
-            newBtn.name = "DiagramButton_" + structure.title;
-            newBtn.transform.SetParent(imageObject.transform);
+            CreateButton(structure);
 
-            newBtn.GetComponent<DiagramButton>().SetupButton(structure, textObject);
+            if (structure.mirror)
+            {
+                StructureButton mirrored = ScriptableObject.CreateInstance<StructureButton>();
+                mirrored.yRatio = structure.yRatio;
+                mirrored.title = structure.title;
+                mirrored.dataKey = structure.dataKey;
+
+                mirrored.xRatio = 1.0f - structure.xRatio;
+
+                CreateButton(mirrored);
+            }
         }
+    }
+
+    private void CreateButton(StructureButton data)
+    {
+        GameObject newBtn = Instantiate(diagramButtonPrefab);
+        newBtn.name = "DiagramButton_" + data.title;
+        newBtn.transform.SetParent(imageObject.transform);
+
+        newBtn.GetComponent<DiagramButton>().SetupButton(data, textObject);
     }
 }
