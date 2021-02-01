@@ -17,12 +17,12 @@ public class TextGenerator
         string description = row[2];
         string pathology = row[3];
 
-        string text = "<b>" + name + ": </b> \n";
+        string text = "<font=\"RobotoMono-VariableFont_wght SDF\"><b>" + name + ": </b></font> \n";
         text += description;
 
         if (pathology != null && pathology != "")
         {
-            text += "\n\n<b>Pathology:</b> \n";
+            text += "\n\n<font=\"RobotoMono-VariableFont_wght SDF\"><b>Pathology:</b></font> \n";
             text += pathology;
         }
 
