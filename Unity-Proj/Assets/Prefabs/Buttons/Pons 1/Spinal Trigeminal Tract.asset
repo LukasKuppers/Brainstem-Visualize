@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.7
   yRatio: 0.67
+  mirror: 1
   title: Spinal Trigeminal Tract
   dataKey: Spinal Trigeminal Tract

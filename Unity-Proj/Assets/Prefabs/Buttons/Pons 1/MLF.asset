@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.52
   yRatio: 0.72
+  mirror: 1
   title: MLF
   dataKey: MLF

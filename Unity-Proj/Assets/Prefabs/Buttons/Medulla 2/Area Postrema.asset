@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.54
   yRatio: 0.82
+  mirror: 1
   title: Area Postrema
   dataKey: Area Postrema

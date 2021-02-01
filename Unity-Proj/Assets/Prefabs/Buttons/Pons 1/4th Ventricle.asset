@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.5
   yRatio: 0.84
+  mirror: 0
   title: 4th Ventricle
   dataKey: 4th Ventricle

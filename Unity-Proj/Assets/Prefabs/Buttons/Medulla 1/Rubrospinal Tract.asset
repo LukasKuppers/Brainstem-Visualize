@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.84
   yRatio: 0.55
+  mirror: 1
   title: Rubrospinal Tract
   dataKey: Rubrospinal Tract

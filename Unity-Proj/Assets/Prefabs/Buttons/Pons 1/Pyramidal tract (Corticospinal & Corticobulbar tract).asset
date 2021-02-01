@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.65
   yRatio: 0.45
+  mirror: 1
   title: Pyramidal tract (Corticospinal & Corticobulbar tract)
   dataKey: Pyramidal tract (Corticospinal & Corticobulbar tract)

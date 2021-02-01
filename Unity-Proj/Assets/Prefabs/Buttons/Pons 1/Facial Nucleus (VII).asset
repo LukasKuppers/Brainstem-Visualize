@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.64
   yRatio: 0.64
+  mirror: 1
   title: Facial Nucleus (VII)
   dataKey: Facial Nucleus (VII)

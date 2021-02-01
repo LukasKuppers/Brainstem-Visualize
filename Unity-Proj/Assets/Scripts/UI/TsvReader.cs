@@ -2,21 +2,24 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CsvReader : IContentProvider
+public class TsvReader : IContentProvider
 {
     private readonly TextAsset textData;
 
+    private int keyColumn = 0;
     private List<List<string>> dataTable;
 
-    public CsvReader(string path)
+    public TsvReader(string path, int keyColumn)
     {
+        this.keyColumn = keyColumn;
+
         textData = Resources.Load<TextAsset>(path);
         dataTable = new List<List<string>>();
 
         string[] rows = textData.text.Split(new char[] { '\n' });
         for (int i = 1; i < rows.Length - 1; i++)
         {
-            string[] row = rows[i].Split(new char[] { ',' });
+            string[] row = rows[i].Split(new char[] { '\t' });
             List<string> parsedRow = new List<string>();
             foreach (string cell in row)
             {
@@ -35,7 +38,7 @@ public class CsvReader : IContentProvider
 
         foreach(List<string> row in dataTable)
         {
-            if (row[0].Equals(key))
+            if (row[keyColumn].Equals(key))
             {
                 return row;
             }

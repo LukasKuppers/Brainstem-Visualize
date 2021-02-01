@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.66
   yRatio: 0.78
+  mirror: 1
   title: Superior vestibular nucleus (VIII)
   dataKey: Superior vestibular nucleus (VIII)

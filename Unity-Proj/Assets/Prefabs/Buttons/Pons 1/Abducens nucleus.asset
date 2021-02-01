@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.56
   yRatio: 0.75
+  mirror: 1
   title: Abducens nucleus
   dataKey: Abducens nucleus

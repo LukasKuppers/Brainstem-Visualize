@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.59
   yRatio: 0.76
+  mirror: 1
   title: Nucleus Solitarius (and tract)
   dataKey: Nucleus Solitarius (and tract)

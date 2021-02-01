@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.8
   yRatio: 0.25
+  mirror: 1
   title: Fasicles of Hypoglossal nerve (XII)
   dataKey: Fasicles of Hypoglossal nerve (XII)

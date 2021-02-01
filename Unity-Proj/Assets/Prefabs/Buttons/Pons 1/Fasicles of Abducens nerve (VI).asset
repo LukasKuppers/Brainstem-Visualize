@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.64
   yRatio: 0.56
+  mirror: 1
   title: Fasicles of Abducens nerve (VI)
   dataKey: Fasicles of Abducens nerve (VI)

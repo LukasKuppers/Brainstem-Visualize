@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.53
   yRatio: 0.58
+  mirror: 1
   title: Tectospinal Tract
   dataKey: Tectospinal Tract

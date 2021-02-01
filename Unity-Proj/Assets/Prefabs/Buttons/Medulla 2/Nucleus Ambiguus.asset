@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.63
   yRatio: 0.55
+  mirror: 1
   title: Nucleus Ambiguus
   dataKey: Nucleus Ambiguus

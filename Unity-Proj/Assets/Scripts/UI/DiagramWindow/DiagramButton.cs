@@ -6,12 +6,16 @@ using TMPro;
 
 public class DiagramButton : MonoBehaviour
 {
+    private TextGenerator text;
+
     private StructureButton buttonInfo;
 
     private GameObject textObject;
 
     public void SetupButton(StructureButton buttonInfo, GameObject textObject)
     {
+        text = new TextGenerator("text_data", 1);
+
         this.buttonInfo = buttonInfo;
         this.textObject = textObject;
 
@@ -29,8 +33,7 @@ public class DiagramButton : MonoBehaviour
 
     private void OnClick()
     {
-        string text = "<b>TITLE</b>\n";
-        text += buttonInfo.dataKey;
-        textObject.GetComponent<TextMeshProUGUI>().text = text;
+        string display = text.GetText(buttonInfo.dataKey, buttonInfo.title);
+        textObject.GetComponent<TextMeshProUGUI>().text = display;
     }
 }

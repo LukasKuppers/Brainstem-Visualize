@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.57
   yRatio: 0.73
+  mirror: 1
   title: Dorsal Motor Nucleus of CN X
   dataKey: Dorsal Motor Nucleus of CN X

@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.62
   yRatio: 0.3
+  mirror: 1
   title: CST
   dataKey: CST

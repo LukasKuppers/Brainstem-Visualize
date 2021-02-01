@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.84
   yRatio: 0.37
+  mirror: 1
   title: Lateral Spinothalamic & Spinotectal tracts
   dataKey: Lateral Spinothalamic & Spinotectal tracts

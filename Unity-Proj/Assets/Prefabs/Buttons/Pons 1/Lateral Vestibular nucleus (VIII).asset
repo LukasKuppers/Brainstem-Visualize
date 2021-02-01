@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.64
   yRatio: 0.76
+  mirror: 1
   title: Lateral Vestibular nucleus (VIII)
   dataKey: Lateral Vestibular nucleus (VIII)

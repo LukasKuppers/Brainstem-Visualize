@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.64
   yRatio: 0.71
+  mirror: 1
   title: Facial nerve (VII)
   dataKey: Facial nerve (VII)

@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.55
   yRatio: 0.47
+  mirror: 1
   title: Medial Lemniscus
   dataKey: Medial Lemniscus

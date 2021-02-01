@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xRatio: 0.86
   yRatio: 0.64
+  mirror: 1
   title: Spinal Trigeminal Nucleus
   dataKey: Spinal Trigeminal Nucleus
