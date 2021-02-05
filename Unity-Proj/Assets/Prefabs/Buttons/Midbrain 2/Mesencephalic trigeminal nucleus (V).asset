@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75894cd8a195d9249ae146c3665d15d7, type: 3}
   m_Name: Mesencephalic trigeminal nucleus (V)
   m_EditorClassIdentifier: 
-  xRatio: 0
-  yRatio: 0
-  mirror: 0
-  title: 
-  dataKey: 
+  xRatio: 0.6
+  yRatio: 0.81
+  mirror: 1
+  title: Mesencephalic trigeminal nucleus (V)
+  dataKey: Mesencephalic trigeminal nucleus (V)

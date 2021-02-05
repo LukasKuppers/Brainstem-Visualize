@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75894cd8a195d9249ae146c3665d15d7, type: 3}
   m_Name: Periaquaductal Gray
   m_EditorClassIdentifier: 
-  xRatio: 0
-  yRatio: 0
+  xRatio: 0.5
+  yRatio: 0.77
   mirror: 0
-  title: 
-  dataKey: 
+  title: Periaquaductal Gray
+  dataKey: Periaquaductal Gray
