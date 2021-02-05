@@ -6,38 +6,33 @@ public class CameraMovementController : MonoBehaviour
 {
     [SerializeField]
     private float sensitivity = 0.5f;
+    [SerializeField]
+    private bool invertYAxis = false;
+    [SerializeField]
+    private bool invertXAxis = false;
 
     private MouseInput mouseInput;
 
     private GameObject cameraRoot;
-    private Vector3 rotState;
+
+    private float invertX = 1f;
+    private float invertY = 1f;
 
     void Start()
     {
+        invertX = invertXAxis ? -1f : 1f;
+        invertY = invertYAxis ? -1f : 1f;
+
         mouseInput = gameObject.AddComponent<MouseInput>();
         cameraRoot = gameObject;
-        rotState = new Vector3(0, 0, 0);
     }
 
     void Update()
     {
-        // set rotation
-        cameraRoot.transform.rotation = Quaternion.Euler(rotState);
+        cameraRoot.transform.RotateAround(cameraRoot.transform.position, cameraRoot.transform.up,
+            mouseInput.GetHorizontalDrag() * sensitivity * invertX);
 
-        // update state based on inputs
-        rotState = ApplyInput(rotState);
-    }
-
-    private Vector3 ApplyInput(Vector3 state)
-    {
-        float dHorizontal = mouseInput.GetHorizontalDrag();
-        float dVertial = mouseInput.GetVerticalDrag();
-
-        state.y += dHorizontal * sensitivity;
-        state.x -= dVertial * sensitivity;
-
-        state.x = Mathf.Clamp(state.x, -90, 90);
-
-        return state;
+        cameraRoot.transform.RotateAround(cameraRoot.transform.position, Vector3.right,
+            mouseInput.GetVerticalDrag() * sensitivity * invertY);
     }
 }
